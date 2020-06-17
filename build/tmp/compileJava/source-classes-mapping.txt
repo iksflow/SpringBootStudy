@@ -1,7 +1,10 @@
-com/iksflow/study/controller/BoardController.java
- com.iksflow.study.controller.BoardController
+com/iksflow/study/domain/BoardVO.java
+ com.iksflow.study.domain.BoardVO
+ com.iksflow.study.domain.BoardVO$BoardVOBuilder
 com/iksflow/other/OtherController.java
  com.iksflow.other.OtherController
+com/iksflow/study/controller/BoardController.java
+ com.iksflow.study.controller.BoardController
 com/iksflow/study/util/TestUtil.java
  com.iksflow.study.util.TestUtil
 com/iksflow/study/Application.java

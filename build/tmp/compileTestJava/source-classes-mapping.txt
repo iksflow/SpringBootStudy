@@ -1,2 +1,4 @@
 com/iksflow/study/TestUtilTest.java
  com.iksflow.study.TestUtilTest
+com/iksflow/study/TestApp.java
+ com.iksflow.study.TestApp

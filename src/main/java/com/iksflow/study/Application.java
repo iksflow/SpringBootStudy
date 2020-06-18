@@ -1,10 +1,11 @@
 package com.iksflow.study;
 
-import com.iksflow.study.util.TestUtil;
+
+import org.apache.tomcat.jni.Thread;
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
+
 
 @SpringBootApplication
 @ComponentScan(basePackages = {"com.iksflow.study", "com.iksflow.other"})

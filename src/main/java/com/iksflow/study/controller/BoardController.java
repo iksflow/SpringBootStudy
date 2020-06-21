@@ -15,7 +15,7 @@ public class BoardController {
 
     public BoardController() {
         // 1236을 포함하고있으면 재시작을 안함
-        System.out.println("===> BootController 생성1236");
+        System.out.println("===> BootController 생성1237");
     }
 
     @GetMapping("/getBoard")

@@ -50,7 +50,7 @@ public class BoardController {
         return boardList;
     }
 
-    @PostMapping("/hello")
+    @GetMapping("/hello")
     public String helloPost(String name) {
         return "Hello : " + name;
     }

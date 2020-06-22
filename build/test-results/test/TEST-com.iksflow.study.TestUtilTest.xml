@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.iksflow.study.TestUtilTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-12T03:48:09" hostname="DESKTOP-C6H8EOO" time="0.117">
-  <properties/>
-  <testcase name="test_UUID생성테스트()" classname="com.iksflow.study.TestUtilTest" time="0.117"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

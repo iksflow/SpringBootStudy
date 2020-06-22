@@ -1,6 +1,12 @@
 com/iksflow/study/TestUtilTest.java
  com.iksflow.study.TestUtilTest
-com/iksflow/study/TestApp.java
- com.iksflow.study.TestApp
 com/iksflow/study/ApplicationTests.java
  com.iksflow.study.ApplicationTests
+com/iksflow/study/TestWebMvc.java
+ com.iksflow.study.TestWebMvc
+com/iksflow/study/TestApp.java
+ com.iksflow.study.TestApp
+com/iksflow/study/PropertiesTest.java
+ com.iksflow.study.PropertiesTest
+com/iksflow/study/AutoConfigureTest.java
+ com.iksflow.study.AutoConfigureTest

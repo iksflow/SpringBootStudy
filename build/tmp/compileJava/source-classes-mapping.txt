@@ -1,11 +1,17 @@
+com/iksflow/study/service/BoardServiceImpl2.java
+ com.iksflow.study.service.BoardServiceImpl2
 com/iksflow/study/domain/BoardVO.java
  com.iksflow.study.domain.BoardVO
  com.iksflow.study.domain.BoardVO$BoardVOBuilder
+com/iksflow/study/service/BoardService.java
+ com.iksflow.study.service.BoardService
 com/iksflow/other/OtherController.java
  com.iksflow.other.OtherController
-com/iksflow/study/Application.java
- com.iksflow.study.Application
-com/iksflow/study/util/TestUtil.java
- com.iksflow.study.util.TestUtil
 com/iksflow/study/controller/BoardController.java
  com.iksflow.study.controller.BoardController
+com/iksflow/study/util/TestUtil.java
+ com.iksflow.study.util.TestUtil
+com/iksflow/study/Application.java
+ com.iksflow.study.Application
+com/iksflow/study/service/BoardServiceImpl.java
+ com.iksflow.study.service.BoardServiceImpl

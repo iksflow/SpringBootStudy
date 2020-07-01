@@ -1,5 +1,5 @@
-com/iksflow/study/controller/BoardControllerTest.java
- com.iksflow.study.controller.BoardControllerTest
+com/iksflow/study/controller/BoardControllerTest2.java
+ com.iksflow.study.controller.BoardControllerTest2
 com/iksflow/study/TestUtilTest.java
  com.iksflow.study.TestUtilTest
 com/iksflow/study/ApplicationTests.java
@@ -12,5 +12,5 @@ com/iksflow/study/PropertiesTest.java
  com.iksflow.study.PropertiesTest
 com/iksflow/study/AutoConfigureTest.java
  com.iksflow.study.AutoConfigureTest
-com/iksflow/study/controller/BoardControllerTest2.java
- com.iksflow.study.controller.BoardControllerTest2
+com/iksflow/study/controller/BoardControllerTest.java
+ com.iksflow.study.controller.BoardControllerTest

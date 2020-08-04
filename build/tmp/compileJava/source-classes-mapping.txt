@@ -1,3 +1,5 @@
+com/iksflow/study/LoggingRunner.java
+ com.iksflow.study.LoggingRunner
 com/iksflow/study/service/BoardServiceImpl2.java
  com.iksflow.study.service.BoardServiceImpl2
 com/iksflow/study/domain/BoardVO.java

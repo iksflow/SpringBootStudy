@@ -27,10 +27,10 @@ public class BoardControllerTest2 {
     @Autowired
     private MockMvc mockMvc;
 
-//    @MockBean
-//    private BoardService boardService;
     @MockBean
-    private BoardServiceImpl2 boardService;
+    private BoardService boardService;
+//    @MockBean
+//    private BoardServiceImpl2 boardService;
 
 
     @Test

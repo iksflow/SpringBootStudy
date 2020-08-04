@@ -1,3 +1,5 @@
+com/iksflow/study/LoggingRunner.java
+ com.iksflow.study.LoggingRunner
 com/iksflow/study/service/BoardServiceImpl2.java
  com.iksflow.study.service.BoardServiceImpl2
 com/iksflow/study/domain/BoardVO.java
@@ -11,9 +13,7 @@ com/iksflow/study/controller/BoardController.java
  com.iksflow.study.controller.BoardController
 com/iksflow/study/util/TestUtil.java
  com.iksflow.study.util.TestUtil
-com/iksflow/study/service/BoardServiceImpl.java
- com.iksflow.study.service.BoardServiceImpl
 com/iksflow/study/Application.java
  com.iksflow.study.Application
-com/iksflow/study/LoggingRunner.java
- com.iksflow.study.LoggingRunner
+com/iksflow/study/service/BoardServiceImpl.java
+ com.iksflow.study.service.BoardServiceImpl
